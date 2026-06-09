@@ -12,7 +12,7 @@ import time
 import re
 
 #path
-correct_file = "/home/kagawa/workspace/lecture_tm/wrong_word.json"
+correct_file = "your wrong word file"
 
 
 
